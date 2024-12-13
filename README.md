@@ -1,5 +1,5 @@
 
-## <div align="center">Hi there! I'm Nawaz, a passionate Software Engineer from Bengaluru, India. 👨‍💻</div>
+## <div align="center">Hi there! I'm Nawaz, a passionate Software Engineer 👨‍💻</div>
 With a comprehensive background in problem-solving, designing, and collaborating with teams, I thrive on delivering high-quality code and building impactful software solutions. I enjoy creating scalable and efficient systems that make a difference.
 
 ---
